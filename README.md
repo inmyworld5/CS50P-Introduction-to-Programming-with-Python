@@ -1,5 +1,4 @@
 # Password generator and checker
-#### Video Demo:  [https://www.youtube.com/watch?v=Sc0Unbr7qKc](https://www.youtube.com/watch?v=Sc0Unbr7qKc)
 ## Description:
 ```Password generator and checker``` is my final project for CS50's Introduction to Programming with Python. I created this program because I am passionate about cybersecurity and believe in the importance of strong passwords for your accounts.
 
