@@ -1,6 +1,6 @@
 # Password generator and checker
 ## Description:
-```Password generator and checker``` is my final project for CS50's Introduction to Programming with Python. I created this program because I am passionate about cybersecurity and believe in the importance of strong passwords for your accounts.
+```Password generator and checker``` is my final project for CS50's Introduction to Programming with Python. I created this program because I am passionate about cybersecurity and believe in the importance of strong passwords for accounts.
 
 ## Folder Contents
 - **project.py**: This file contains my ```main``` function and the other functions necessary to implement the program.
