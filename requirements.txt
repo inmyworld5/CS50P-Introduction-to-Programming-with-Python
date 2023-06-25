@@ -1,0 +1,9 @@
+sys
+secrets
+string
+pyopenssl
+python-ldap
+setuptools
+wheel
+twine
+pytest
